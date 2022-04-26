@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DictionaryAppActivity</string>
+    <string name="ara">Ara</string>
+    <string name="accept">accept</string>
+    <string name="textview">textview</string>
+    <string name="english_text">English Text</string>
+    <string name="turkish_text">Turkish Text</string>
+</resources>
